@@ -8,6 +8,6 @@
 #lscr.io/linuxserver/qbittorrent:latest
 #zerotier/zerotier-synology:latest
 #jellyfin/jellyfin:latest
-jlesage/firefox
+linuxserver/firefox
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
